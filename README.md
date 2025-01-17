@@ -1,0 +1,2 @@
+# Pomozov_Sistema_electronnih_plaztezhey
+потатип банковской карты
